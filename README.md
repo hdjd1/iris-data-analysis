@@ -15,7 +15,7 @@
 ## 📊 运行结果
 下图展示了不同模型在测试集上的表现对比：
 
-![模型对比图](model_comparison.png)
+![模型对比图](iris-project/model_comparison.png)
 
 ## 🚀 如何运行
 1. 确保电脑已安装 Python 环境。

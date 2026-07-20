@@ -21,4 +21,5 @@
 1. 确保电脑已安装 Python 环境。
 2. 安装依赖库：`pip install scikit-learn pandas matplotlib`
 3. 运行代码：
-  cd iris-project&&python iris_classification.py
+  cd iris-project
+  python iris_classification.py

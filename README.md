@@ -6,8 +6,8 @@
 ## 🛠️ 技术栈
 - **语言**: Python
 - **核心库**: Scikit-learn, Pandas, Matplotlib/Seaborn
-- **算法**: [这里可以填你用的算法，比如 KNN / SVM / 决策树]
-
+- **算法**: K-Nearest Neighbors (KNN), Logistic Regression
+  
 ## 📂 文件说明
 - `iris_classification.py`: 项目核心代码，包含数据加载、模型训练和评估。
 - `model_comparison.png`: 模型对比结果可视化图表。
@@ -20,4 +20,6 @@
 ## 🚀 如何运行
 1. 确保电脑已安装 Python 环境。
 2. 安装依赖库：`pip install scikit-learn pandas matplotlib`
-3. 运行代码：`python iris_classification.py`
+3. 运行代码：
+   cd iris-project
+   python iris_classification.py
